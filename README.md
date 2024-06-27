@@ -17,10 +17,10 @@ This repository contains the source code and instance sets for the paper titled 
     - multicut instance sets (synthetic)
 
 * /generalization
-    - evaluation on out-of-distribution generalization ability
+    - evaluation for out-of-distribution generalization ability
 
 * /larger
-    - evaluation on generalization ability to much larger instances from the same graph model
+    - evaluation for generalization ability to much larger instances from the same graph model
 
 * /realworld
     - multicut instance sets (real-world)
