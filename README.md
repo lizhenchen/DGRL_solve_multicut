@@ -1,7 +1,6 @@
 # DGRL_solve_multicut
 This repository contains the source code and instance sets for the paper titled "Deep Graph Reinforcement Learning for Solving Multicut Problem".
 
---------------------------------------------------
 # Folders:
 
 * /DGRL_multicut
@@ -25,7 +24,6 @@ This repository contains the source code and instance sets for the paper titled 
 * /realworld
     - multicut instance sets (real-world)
 
---------------------------------------------------
 # Operating System: CentOS 7.9
 # Python Environments:
 
