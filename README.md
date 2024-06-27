@@ -38,4 +38,4 @@ This repository contains the source code and instance sets for the paper titled 
 * To run /CPLEX/cplex.py:
     - Refer to requirements_for_CPLEX.txt and the 'nifty' library with CPLEX functionality
 
-Note: 'nifty' source code is available at https://github.com/DerThorsten/nifty?tab=readme-ov-file
+Note: 'nifty' source code is available at https://github.com/DerThorsten/nifty
